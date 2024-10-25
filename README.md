@@ -6,3 +6,6 @@ This repository is for understanding git concept for devops
 this line is for second hack 
 
 includes new commands
+
+this change for industy push command
+
