@@ -83,3 +83,18 @@ git push origin branch_name
 
 Pull changes from the remote repository:  
 git pull origin branch_name  
+
+Working with Remote Repositories
+Add a remote repository:
+
+Copy code
+git remote add origin https://github.com/username/repository.git
+Push changes to the remote repository:
+
+perl
+Copy code
+git push origin branch_name
+Pull changes from the remote repository:
+
+Copy code
+git pull origin branch_name
